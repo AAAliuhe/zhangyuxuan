@@ -1,2 +1,3 @@
 # zhangyuxuan
-第一次上机
+学习使用github
+学习编辑与保存
